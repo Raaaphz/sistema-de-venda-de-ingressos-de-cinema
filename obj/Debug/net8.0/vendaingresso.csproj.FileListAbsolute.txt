@@ -1,0 +1,14 @@
+C:\Users\rapha\VSCodeProjects\vendaingresso\bin\Debug\net8.0\vendaingresso.exe
+C:\Users\rapha\VSCodeProjects\vendaingresso\bin\Debug\net8.0\vendaingresso.deps.json
+C:\Users\rapha\VSCodeProjects\vendaingresso\bin\Debug\net8.0\vendaingresso.runtimeconfig.json
+C:\Users\rapha\VSCodeProjects\vendaingresso\bin\Debug\net8.0\vendaingresso.dll
+C:\Users\rapha\VSCodeProjects\vendaingresso\bin\Debug\net8.0\vendaingresso.pdb
+C:\Users\rapha\VSCodeProjects\vendaingresso\obj\Debug\net8.0\vendaingresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\VSCodeProjects\vendaingresso\obj\Debug\net8.0\vendaingresso.AssemblyInfoInputs.cache
+C:\Users\rapha\VSCodeProjects\vendaingresso\obj\Debug\net8.0\vendaingresso.AssemblyInfo.cs
+C:\Users\rapha\VSCodeProjects\vendaingresso\obj\Debug\net8.0\vendaingresso.csproj.CoreCompileInputs.cache
+C:\Users\rapha\VSCodeProjects\vendaingresso\obj\Debug\net8.0\vendaingresso.dll
+C:\Users\rapha\VSCodeProjects\vendaingresso\obj\Debug\net8.0\refint\vendaingresso.dll
+C:\Users\rapha\VSCodeProjects\vendaingresso\obj\Debug\net8.0\vendaingresso.pdb
+C:\Users\rapha\VSCodeProjects\vendaingresso\obj\Debug\net8.0\vendaingresso.genruntimeconfig.cache
+C:\Users\rapha\VSCodeProjects\vendaingresso\obj\Debug\net8.0\ref\vendaingresso.dll
